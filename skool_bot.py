@@ -14,16 +14,16 @@ SKOOL_PASSWORD = os.environ.get("SKOOL_PASSWORD", "TU_PASSWORD")
 SKOOL_GROUP_URL = os.environ.get("SKOOL_GROUP_URL", "https://www.skool.com/TU-GRUPO/feed")
 
 # Palabras clave que identifican el post (título O categoría)
-POST_KEYWORDS = ["análisis", "sesión de análisis", "análisis de llamadas", "reserva tu sitio"]
+POST_KEYWORDS = ["análisis", "sesión de análisis", "análisis de venta", "Confirmación asistencia", "Confirmación de asistencia", "Confirmación de asistencia y prioridad para el análisis de venta"]
 
 # Etiqueta/categoría del post (déjala vacía "" si no aplica)
-POST_CATEGORY = "análisis de llamadas"
+POST_CATEGORY = "Confirmación - S.Análisis🧑‍💻"
 
 # Los 3 comentarios que quieres publicar (en orden)
 COMMENTS = [
-    "Comentario 1: escribe aquí tu primer texto exacto.",
-    "Comentario 2: escribe aquí tu segundo texto exacto.",
-    "Comentario 3: escribe aquí tu tercer texto exacto.",
+    "Fase 2 - Confirmación asistencia y prioridad para Análisis de Venta [Sesión de análisis 1 - [06:00🇨🇴- 12:00🇪🇸] - Mentor Carmelo.",
+    "Fase 2 - Confirmación asistencia y prioridad para Análisis de Venta [Sesión de análisis 2 - [08:00🇨🇴- 14:00🇪🇸] - Mentor Niall.",
+    "Fase 2 - Confirmación asistencia y prioridad para Análisis de Venta [Sesión de análisis 4 - [12:00🇨🇴- 18:00🇪🇸] - Mentor Andrei.",
 ]
 
 # Segundos entre cada comentario (para no parecer bot)
